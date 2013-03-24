@@ -1,9 +1,4 @@
 #################
-## Secure Api Keys and DB Strings
-#################
-block_github/
-
-#################
 ## Eclipse
 #################
 
